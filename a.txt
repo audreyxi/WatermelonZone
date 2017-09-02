@@ -2,7 +2,6 @@ fdasfaddf
 afafa
 fsfsfdsd
 fdasfa
-<<<<<<< HEAD
 watermelon is beautiful--you are correct
 watermelon is ugly--it is wrong
 
