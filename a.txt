@@ -3,8 +3,4 @@ afafa
 fsfsfdsd
 fdasfa
 watermelon is beautiful
-<<<<<<< HEAD
 rourou is handsome
-=======
-rou rou
->>>>>>> 296077710093df1b702ca0adcfd222fb00cec678
